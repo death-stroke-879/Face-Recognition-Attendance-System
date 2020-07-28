@@ -4,8 +4,8 @@ The installation process for this project is a bit more than usual. First we hav
 
 
 # Python Libraries Required:
-cmake
-dlib
-face_recognition
-numpy
-opencv-python
+cmake<br />
+dlib<br />
+face_recognition<br />
+numpy<br />
+opencv-python<br />
